@@ -10,12 +10,12 @@
 |이미지 분류|24.04.12|[Tistory](https://h000ny.tistory.com/entry/TensorFlow-01-%EC%9D%98%EB%A5%98-%EC%95%84%EC%9D%B4%ED%85%9C-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0)|[Velog](https://velog.io/@karryun/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8AID)|[Notion](https://quark-mangosteen-fe1.notion.site/2-36f7b6a80e084c31b8a4904e4faf4858)|[Tistory](https://corntofu.tistory.com/4)|[Tistory](https://shortwook.tistory.com/3)|
 |합성곱 신경망|24.04.28|[Tistory](https://h000ny.tistory.com/entry/TensorFlow-03-1-%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0)|[Velog](https://velog.io/@karryun/3%EC%A3%BC%EC%B0%A8-%ED%8A%B9%EC%A7%95-%EA%B0%90%EC%A7%80%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D)|[Notion](https://quark-mangosteen-fe1.notion.site/3-baf2fff9d5aa405f9d63de6d9cf3b681)|[Tistory](https://corntofu.tistory.com/5)|[Tistory](https://shortwook.tistory.com/4)|
 |자연어 토큰화|24.05.12|[Tistory](https://h000ny.tistory.com/entry/Tensorflow-04-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-Tokneizer)|[Velog](https://velog.io/@karryun/4%EC%A3%BC%EC%B0%A8-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%EC%86%8C%EA%B0%9C%B2%BD%EB%A7%9D)||[Tistory](https://corntofu.tistory.com/6)||
-|자연어 임베딩|24.05.18||
-|순환 신경망||
-|텍스트 생성||
-|시퀀스와 시계열||
-|시퀀스 예측||
-|CNN & RNN||
+|자연어 임베딩|24.05.18|
+|순환 신경망|24.05.24|
+|텍스트 생성|24.06.02|
+|시퀀스와 시계열|24.06.27|
+|시퀀스 예측|24.06.27|
+|CNN & RNN|24.06.27|
 
 
 
